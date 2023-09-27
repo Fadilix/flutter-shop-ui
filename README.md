@@ -1,16 +1,20 @@
-# shop_ui
+# FLUTTER SHOP UI
 
-A new Flutter project.
+Add this repo to your local machine
 
-## Getting Started
+```
+git clone https://github.com/Fadilix/flutter-shop-ui.git
+```
+This Flutter app is a simple shopping user interface with various sections, including product search, category filters, and new arrivals. It uses Google Fonts for text styling and navigation to a Cart page upon tapping the shopping cart icon.
 
-This project is a starting point for a Flutter application.
+## Key Features
+- Navigation to Cart Page: You can tap the shopping cart icon to navigate to the Cart page.
+- Search Bar: Enter a brand or product name in the search bar for product search.
+- Category Filters: Filter products by category (e.g., "All products," "Adidas," "Nike").
+- New Arrival Section: Displays new arrival products with images, names, and prices.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/Fadilix/flutter-shop-ui/assets/121851593/0cca34bb-3ab0-4d68-b141-2f969ab830fe" width="300"/>
+<img src="https://github.com/Fadilix/flutter-shop-ui/assets/121851593/a8da247c-b3f5-45d7-bc42-17ef67c4e710" width="300"/>
+<img src="https://github.com/Fadilix/flutter-shop-ui/assets/121851593/e1d0150e-d896-42dd-bbc0-a88f82e621c2" width="300"/>
